@@ -1,3 +1,11 @@
 {
-  "soundSetting": "sound4"
+  "soundSetting": "sound1",
+  "enableAnimation": true,
+  "animationPosition": "center",
+  "customX": 65,
+  "customY": 40,
+  "animationSize": 200,
+  "animationType": "firework",
+  "randomizePosition": true,
+  "randomAreaPadding": 0
 }
